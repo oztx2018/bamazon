@@ -17,7 +17,7 @@ values ("Rombaa", "Vacuum", 499.99, 10);
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Shark", "Mixer", 99.99, 200);
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
-values (" Hamilton", "Slow Cooker", 49.99, 20);
+values (" Hamilton", "Slow Cooker", 49.98, 20);
 
 
 select * from bamazon_db.products ; 
