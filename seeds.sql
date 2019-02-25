@@ -11,7 +11,7 @@ values ("Apple Mac Book", "Computer", 1499.99, 30);
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Sony 60SLF", "TV", 699.99, 50);
 insert into  bamazon_db.products (product_name, department_name, price, stock_quantity)
-values ("DELL", "Computer", 599.99, 80);
+values ("DELL", "Computer", 599.98, 80);
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Rombaa", "Vacuum", 499.99, 10);
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
