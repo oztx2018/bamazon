@@ -1,5 +1,6 @@
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Vizio D50F", "TV", 299.99, 50);
+
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Samsung UN32", "TV", 199.99, 40);
 
