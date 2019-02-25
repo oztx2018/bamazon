@@ -19,6 +19,7 @@ values ("Rombaa", "Vacuum", 499.99, 10);
 
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values ("Shark", "Mixer", 99.98, 150);
+
 insert into bamazon_db.products (product_name, department_name, price, stock_quantity)
 values (" Hamilton", "Slow Cooker", 49.98, 20);
 
