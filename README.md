@@ -7,6 +7,6 @@ The Customer application will give him/her the option to buy from the bamazon st
 The Mangager application will have the option to view the products for sale, view products that are low in stock quantity, add a new product, and add quantity to existing products
 
 PACKAGES:
-Mysql
-Inquirer
+-Mysql
+-Inquirer
 
